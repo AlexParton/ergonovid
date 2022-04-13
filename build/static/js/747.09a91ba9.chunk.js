@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkergonomic=self.webpackChunkergonomic||[]).push([[747],{1747:function(e,r,s){s.r(r);var a=s(8014),c=s(184);r.default=function(){return(0,c.jsxs)("div",{className:"loaderwrapper dkfallback",children:[(0,c.jsxs)("div",{className:"loaderwrapper",children:[(0,c.jsx)(a.TQI,{}),(0,c.jsx)("h1",{children:"ERGONOMIC"})]}),"ESTA APP SOLO FUNCIONA EN M\xd3VIL"]})}}}]);
+//# sourceMappingURL=747.09a91ba9.chunk.js.map
